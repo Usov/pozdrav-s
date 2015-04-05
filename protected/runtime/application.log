@@ -1,0 +1,228 @@
+2015/03/30 20:10:57 [error] [php] include(VoicecardDataLoader.php): failed to open stream: No such file or directory (/home/alekseenko/projects/pozdrav/framework/YiiBase.php:432)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(5): spl_autoload_call()
+#1 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run()
+#2 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#4 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/03/30 20:13:53 [error] [php] include(VoicecardDataLoader.php): failed to open stream: No such file or directory (/home/alekseenko/projects/pozdrav/framework/YiiBase.php:432)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(5): spl_autoload_call()
+#1 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run()
+#2 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#4 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/03/30 20:14:02 [error] [php] include(VoicecardDataLoader.php): failed to open stream: No such file or directory (/home/alekseenko/projects/pozdrav/framework/YiiBase.php:432)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(5): spl_autoload_call()
+#1 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run()
+#2 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#4 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/03/30 20:16:00 [error] [php] include(VoicecardDataLoader.php): failed to open stream: No such file or directory (/home/alekseenko/projects/pozdrav/framework/YiiBase.php:432)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(5): spl_autoload_call()
+#1 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run()
+#2 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#4 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/03/30 20:18:16 [error] [php] include(VoicecardDataLoader.php): failed to open stream: No such file or directory (/home/alekseenko/projects/pozdrav/framework/YiiBase.php:432)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(5): spl_autoload_call()
+#1 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run()
+#2 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#4 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/03/30 20:18:26 [error] [php] include(VoicecardDataLoader.php): failed to open stream: No such file or directory (/home/alekseenko/projects/pozdrav/framework/YiiBase.php:432)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(5): spl_autoload_call()
+#1 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run()
+#2 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#4 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/03/30 20:20:39 [error] [php] include(VoicecardDataLoader.php): failed to open stream: No such file or directory (/home/alekseenko/projects/pozdrav/framework/YiiBase.php:432)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(6): spl_autoload_call()
+#1 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run()
+#2 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#3 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#4 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/03/30 20:25:19 [error] [exception.CException] exception 'CException' with message 'Property "VoicecardDataLoader.data" is not defined.' in /home/alekseenko/projects/pozdrav/framework/base/CComponent.php:173
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php(57): CComponent->__set('data', Object(stdClass))
+#1 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(8): VoicecardDataLoader->voicecardDataLoad()
+#2 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run(Array)
+#3 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#4 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#5 /home/alekseenko/projects/pozdrav/console.php(5): CApplication->run()
+#6 {main}
+---
+2015/03/30 20:33:22 [error] [php] Undefined property: stdClass::$name (/home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php:64)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#2 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/03/30 20:35:02 [error] [php] Undefined property: stdClass::$status (/home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php:65)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#2 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/04/01 18:19:26 [error] [php] Undefined property: stdClass::$parent_id (/home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php:39)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#2 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/04/01 18:21:32 [error] [php] array_slice() expects parameter 1 to be array, string given (/home/alekseenko/projects/pozdrav/framework/base/CModel.php:287)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/base/CModel.php(158): Category->getValidators()
+#1 /home/alekseenko/projects/pozdrav/framework/db/ar/CActiveRecord.php(808): Category->validate()
+#2 /home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php(42): Category->save()
+#3 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(9): VoicecardDataLoader->voicecardDataSave()
+#4 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run()
+#5 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#6 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#7 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/04/01 18:45:37 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'pozdrav-s.site_category' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `site_category`.
+2015/04/01 18:45:37 [error] [exception.CDbException] exception 'CDbException' with message 'The table "site_category" for active record class "Category" cannot be found in the database.' in /home/alekseenko/projects/pozdrav/framework/db/ar/CActiveRecord.php:2385
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/db/ar/CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Category))
+#1 /home/alekseenko/projects/pozdrav/framework/db/ar/CActiveRecord.php(661): CActiveRecord->getMetaData()
+#2 /home/alekseenko/projects/pozdrav/framework/db/ar/CActiveRecord.php(1822): CActiveRecord->getTableSchema()
+#3 /home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php(34): CActiveRecord->deleteAll()
+#4 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(9): VoicecardDataLoader->voicecardDataSave()
+#5 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run(Array)
+#6 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#8 /home/alekseenko/projects/pozdrav/console.php(5): CApplication->run()
+#9 {main}
+---
+2015/04/01 19:19:24 [error] [exception.CException] exception 'CException' with message 'Property "Category.80399" is not defined.' in /home/alekseenko/projects/pozdrav/framework/base/CComponent.php:130
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/db/ar/CActiveRecord.php(145): CComponent->__get('80399')
+#1 /home/alekseenko/projects/pozdrav/protected/models/Category.php(27): CActiveRecord->__get('80399')
+#2 /home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php(43): Category->daoSave()
+#3 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(9): VoicecardDataLoader->voicecardDataSave()
+#4 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run(Array)
+#5 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#6 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#7 /home/alekseenko/projects/pozdrav/console.php(5): CApplication->run()
+#8 {main}
+---
+2015/04/01 19:24:30 [error] [exception.CException] exception 'CException' with message 'Category and its behaviors do not have a method or closure named "getTableName".' in /home/alekseenko/projects/pozdrav/framework/base/CComponent.php:266
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/db/ar/CActiveRecord.php(227): CComponent->__call('getTableName', Array)
+#1 /home/alekseenko/projects/pozdrav/protected/models/Category.php(27): CActiveRecord->__call('getTableName', Array)
+#2 /home/alekseenko/projects/pozdrav/protected/models/Category.php(27): Category->getTableName()
+#3 /home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php(43): Category->daoSave()
+#4 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(9): VoicecardDataLoader->voicecardDataSave()
+#5 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run(Array)
+#6 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#8 /home/alekseenko/projects/pozdrav/console.php(5): CApplication->run()
+#9 {main}
+---
+2015/04/01 19:27:30 [error] [exception.CException] exception 'CException' with message 'Category and its behaviors do not have a method or closure named "getTableName".' in /home/alekseenko/projects/pozdrav/framework/base/CComponent.php:266
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/db/ar/CActiveRecord.php(227): CComponent->__call('getTableName', Array)
+#1 /home/alekseenko/projects/pozdrav/protected/models/Category.php(28): CActiveRecord->__call('getTableName', Array)
+#2 /home/alekseenko/projects/pozdrav/protected/models/Category.php(28): Category->getTableName()
+#3 /home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php(44): Category->daoSave()
+#4 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(9): VoicecardDataLoader->voicecardDataSave()
+#5 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run(Array)
+#6 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#8 /home/alekseenko/projects/pozdrav/console.php(5): CApplication->run()
+#9 {main}
+---
+2015/04/01 19:31:01 [error] [exception.CException] exception 'CException' with message 'Category and its behaviors do not have a method or closure named "w".' in /home/alekseenko/projects/pozdrav/framework/base/CComponent.php:266
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/db/ar/CActiveRecord.php(227): CComponent->__call('w', Array)
+#1 /home/alekseenko/projects/pozdrav/protected/models/Category.php(24): CActiveRecord->__call('w', Array)
+#2 /home/alekseenko/projects/pozdrav/protected/models/Category.php(24): Category->w()
+#3 /home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php(44): Category->daoSave()
+#4 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(9): VoicecardDataLoader->voicecardDataSave()
+#5 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run(Array)
+#6 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run(Array)
+#7 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#8 /home/alekseenko/projects/pozdrav/console.php(5): CApplication->run()
+#9 {main}
+---
+2015/04/01 20:13:56 [error] [php] Trying to get property of non-object (/home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php:37)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#2 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/04/01 20:14:45 [error] [php] Trying to get property of non-object (/home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php:38)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#2 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/04/01 20:22:30 [error] [php] Trying to get property of non-object (/home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php:38)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#2 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/04/05 14:23:20 [error] [php] Trying to get property of non-object (/home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php:38)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#2 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/04/05 14:30:23 [error] [php] Trying to get property of non-object (/home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php:38)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#2 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/04/05 15:11:55 [error] [php] Object of class stdClass could not be converted to string (/home/alekseenko/projects/pozdrav/framework/db/CDbCommand.php:337)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/protected/models/Card.php(17): CDbCommand->insert()
+#1 /home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php(58): Card->daoSave()
+#2 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(9): VoicecardDataLoader->voicecardDataSave()
+#3 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run()
+#4 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#5 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#6 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/04/05 15:14:08 [error] [php] Object of class stdClass could not be converted to string (/home/alekseenko/projects/pozdrav/framework/db/CDbCommand.php:337)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/protected/models/Card.php(17): CDbCommand->insert()
+#1 /home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php(59): Card->daoSave()
+#2 /home/alekseenko/projects/pozdrav/protected/commands/VoicecardExportDataCommand.php(9): VoicecardDataLoader->voicecardDataSave()
+#3 /home/alekseenko/projects/pozdrav/framework/console/CConsoleCommandRunner.php(71): VoicecardExportDataCommand->run()
+#4 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#5 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#6 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/04/05 15:17:58 [error] [php] Object of class stdClass could not be converted to string (/home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php:53)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#2 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/04/05 16:08:01 [error] [php] Undefined property: stdClass::$catalogid (/home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php:64)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#2 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
+2015/04/05 16:09:27 [error] [php] Undefined property: stdClass::$catalogid (/home/alekseenko/projects/pozdrav/protected/components/VoicecardDataLoader.php:64)
+Stack trace:
+#0 /home/alekseenko/projects/pozdrav/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#1 /home/alekseenko/projects/pozdrav/framework/base/CApplication.php(184): CConsoleApplication->processRequest()
+#2 /home/alekseenko/projects/pozdrav/console.php(5): CConsoleApplication->run()
+
